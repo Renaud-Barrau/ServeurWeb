@@ -98,13 +98,13 @@ Répertoire private -> contient toutes les pages pour gérer le serveur :
 
 
 <p align="center">
-  <img src="./img/d_classe.png" />
+  <img src="./img/D_classe.png" />
 </p>
 
 
 ## Diagramme de séquence
 <p align="center">
-  <img src="./img/d_sequence.png" />
+  <img src="./img/D_sequence.png" />
 </p>
 
 
