@@ -1,0 +1,14 @@
+release/main.o
+release/MySocketServer.o
+release/MySocketClient.o
+release/dialog.o
+release/Fstat.o
+release/FstatManager.o
+release/MyCache.o
+release/Sort.o
+release/cacheelement.o
+release/stats.o
+release/moc_MySocketServer.o
+release/moc_MySocketClient.o
+release/moc_dialog.o
+release/moc_stats.o

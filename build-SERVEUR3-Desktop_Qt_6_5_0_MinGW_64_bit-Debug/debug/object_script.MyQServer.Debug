@@ -1,0 +1,14 @@
+debug/main.o
+debug/MySocketServer.o
+debug/MySocketClient.o
+debug/dialog.o
+debug/Fstat.o
+debug/FstatManager.o
+debug/MyCache.o
+debug/Sort.o
+debug/cacheelement.o
+debug/stats.o
+debug/moc_MySocketServer.o
+debug/moc_MySocketClient.o
+debug/moc_dialog.o
+debug/moc_stats.o
